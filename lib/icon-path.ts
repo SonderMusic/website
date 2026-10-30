@@ -1,0 +1,5 @@
+/** The five slanted bars. Every top and bottom edge sits at 30 degrees. */
+export const ICON_PATH =
+  "M8.3 94.3L47.7 71.5V191.5L8.3 214.3ZM62.4 62.6L101.9 39.8V220.8L62.4 243.5ZM116.6 92.9L156 70.2V191.5L116.6 214.3ZM170.7 36.5L210.2 13.7V246L170.7 268.7ZM224.9 111.6L264.3 88.9V168L224.9 190.7Z";
+
+export const ICON_VIEWBOX = "6 10 262 262";
